@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Welcome to my knowledge notebook on SSG with arkan</title>
-		<link>http://localhost:54846/</link>
-		<description>Recent content in Welcome to my knowledge notebook on SSG with arkan</description>
+		<title>Articles on SSG with arkan</title>
+		<link>http://localhost:54846/articles/</link>
+		<description>Recent content in Articles on SSG with arkan</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
 		
-			<atom:link href="http://localhost:54846/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:54846/articles/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My first learning note</title>
 				<link>http://localhost:54846/articles/first-learning-note/</link>

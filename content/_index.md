@@ -13,3 +13,9 @@ Hello! I am Arkan. This is where I collect useful ideas, learning notes, and sma
 ## Next steps
 
 I will use this notebook to publish my first article and organise useful resources.
+
+
+
+## Latest writing
+
+- [My first learning note](articles/first-learning-note/)
