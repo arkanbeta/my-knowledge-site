@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54846/articles/</loc>
+    <loc>http://localhost:62611/about/</loc>
   </url><url>
-    <loc>http://localhost:54846/categories/</loc>
+    <loc>http://localhost:62611/articles/</loc>
   </url><url>
-    <loc>http://localhost:54846/articles/first-learning-note/</loc>
+    <loc>http://localhost:62611/categories/</loc>
   </url><url>
-    <loc>http://localhost:54846/tags/</loc>
+    <loc>http://localhost:62611/articles/first-learning-note/</loc>
   </url><url>
-    <loc>http://localhost:54846/</loc>
+    <loc>http://localhost:62611/projects/learning-notebook/</loc>
+  </url><url>
+    <loc>http://localhost:62611/projects/</loc>
+  </url><url>
+    <loc>http://localhost:62611/resources/</loc>
+  </url><url>
+    <loc>http://localhost:62611/tags/</loc>
+  </url><url>
+    <loc>http://localhost:62611/</loc>
   </url>
 </urlset>

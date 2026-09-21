@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Welcome to my knowledge notebook on SSG with arkan</title>
-		<link>http://localhost:54846/</link>
+		<link>http://localhost:62611/</link>
 		<description>Recent content in Welcome to my knowledge notebook on SSG with arkan</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -10,13 +10,34 @@
 		
 		
 		
-			<atom:link href="http://localhost:54846/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:62611/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About this notebook</title>
+				<link>http://localhost:62611/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:62611/about/</guid>
+				<description>&lt;p&gt;This notebook collects things I am learning and projects I am developing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-you-can-find-here&#34;&gt;What you can find here&lt;/h2&gt;&#xA;&lt;p&gt;I write short explanations, describe small projects, and collect resources that help me learn.&lt;/p&gt;&#xA;&lt;h2 id=&#34;where-to-begin&#34;&gt;Where to begin&lt;/h2&gt;&#xA;&lt;p&gt;Read &lt;a href=&#34;../articles/first-learning-note/&#34;&gt;my first learning note&lt;/a&gt; for an example of how I record what I have tried.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>My first learning note</title>
-				<link>http://localhost:54846/articles/first-learning-note/</link>
+				<link>http://localhost:62611/articles/first-learning-note/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:54846/articles/first-learning-note/</guid>
+				<guid>http://localhost:62611/articles/first-learning-note/</guid>
 				<description>&lt;p&gt;Today I learned how to change a page in my knowledge notebook.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-tried&#34;&gt;What I tried&lt;/h2&gt;&#xA;&lt;p&gt;I edited my introduction, saved the file, and checked the local preview.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h2&gt;&#xA;&lt;p&gt;The words on the page come from a content file that I can edit.&lt;/p&gt;&#xA;&lt;p&gt;I can consult the &lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;Hugo documentation&lt;/a&gt; when I need help.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-next-step&#34;&gt;My next step&lt;/h2&gt;&#xA;&lt;p&gt;I will write another short note about something I can explain clearly.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#my-next-step&#34;&gt;Jump to my next step&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My knowledge notebook</title>
+				<link>http://localhost:62611/projects/learning-notebook/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:62611/projects/learning-notebook/</guid>
+				<description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;I am building a small website where readers can find my learning notes and follow my projects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-status&#34;&gt;Current status&lt;/h2&gt;&#xA;&lt;p&gt;This is a work in progress. I have a home page and an article, and I am improving the site&amp;rsquo;s organisation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-have-learned&#34;&gt;What I have learned&lt;/h2&gt;&#xA;&lt;p&gt;I can edit Markdown, preview a page, and check links and images.&lt;/p&gt;&#xA;&lt;p&gt;Read &lt;a href=&#34;../../articles/first-learning-note/&#34;&gt;my first learning note&lt;/a&gt; for an example.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../&#34;&gt;Back to Projects&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resources</title>
+				<link>http://localhost:62611/resources/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:62611/resources/</guid>
+				<description>&lt;p&gt;References that support the work recorded in this notebook.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-publishing&#34;&gt;Website publishing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;Hugo documentation&lt;/a&gt;: The official reference for Hugo configuration, content, and templates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34;&gt;Hugo page bundles&lt;/a&gt;: An explanation of grouping a page with related resources.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;examples-from-this-notebook&#34;&gt;Examples from this notebook&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../articles/first-learning-note/&#34;&gt;My first learning note&lt;/a&gt;: A practical record of editing and checking content.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../projects/learning-notebook/&#34;&gt;My knowledge notebook project&lt;/a&gt;: The purpose and current state of this website.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
