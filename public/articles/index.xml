@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Articles on SSG with arkan</title>
+		<link>http://localhost:1313/articles/</link>
+		<description>Recent content in Articles on SSG with arkan</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My first learning note</title>
+				<link>http://localhost:1313/articles/first-learning-note/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/articles/first-learning-note/</guid>
+				<description>&lt;p&gt;Today I learned how to change a page in my knowledge notebook.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-tried&#34;&gt;What I tried&lt;/h2&gt;&#xA;&lt;p&gt;I edited my introduction, saved the file, and checked the local preview.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h3&gt;&#xA;&lt;p&gt;The words on the page come from a content file that I can edit. whic is an md file&lt;/p&gt;&#xA;&lt;p&gt;I can consult the &lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;Hugo documentation&lt;/a&gt; when I need help.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-vs-code&#34;&gt;My VS code&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;notebook-preview.png&#34; alt=&#34;The notebook home page showing its introduction, interests, and next steps&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
